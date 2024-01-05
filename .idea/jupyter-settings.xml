@@ -37,6 +37,14 @@
     </option>
     <option name="moduleParameters">
       <map>
+        <entry key="$PROJECT_DIR$/.idea/modules/HelloHttp4k.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkName" value="Python 3.8" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../deep-learning-from-zero/ch01/ch01.iml">
           <value>
             <JupyterConnectionParameters>
